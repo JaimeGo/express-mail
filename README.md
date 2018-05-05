@@ -4,7 +4,7 @@ Simple Express app made with Bootstrap, Nodemailer and Pug.
 
 It features a contact section which sends emails to a predefined email account.
 
-Available in <a href="https://express-mail-jaimego.herokuapp.com/">Heroku</a>
+Available in <a href="https://express-mail-jaimego.herokuapp.com/" target="_blank">Heroku</a>
 
 ## Home Section
 
