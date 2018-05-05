@@ -145,11 +145,6 @@
             <path>
               <item name="express-mail" type="b2602c69:ProjectViewProjectNode" />
               <item name="express-mail" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="express-mail" type="b2602c69:ProjectViewProjectNode" />
-              <item name="express-mail" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -174,6 +169,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/views" />
     </key>
   </component>
@@ -199,12 +195,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525544967705</updated>
-      <workItem from="1525544968937" duration="10560000" />
+      <workItem from="1525544968937" duration="11222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10560000" />
+    <option name="totallyTimeSpent" value="11222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="640" y="23" width="640" height="728" extended-state="0" />
