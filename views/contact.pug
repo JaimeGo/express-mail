@@ -1,0 +1,35 @@
+
+
+extends layout
+
+block title
+    h1.display-3 Contact
+
+block content
+
+
+    form(method='post', action='contact/send')
+
+        .form-group
+        label Name
+        input.form-control(type='text', name='name',
+        placeholder='Enter Name')
+        .form-group
+        label Email
+        input.form-control(type='email', name='email',
+        placeholder='Enter Email')
+        .form-group
+        label Message
+        textarea.form-control(name='message',
+        placeholder='Enter Message')
+        br
+        button.btn.btn-default(type='submit') Submit
+
+
+
+block footer
+    footer.container
+        p &copy; Jaime Gonz&aacute;lez Ortega 2017-2018
+
+
+

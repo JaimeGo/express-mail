@@ -1,0 +1,25 @@
+{
+  "name": "express-mail",
+  "version": "1.0.0",
+  "description": "Simple Express app with contact form",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaimeGo/express-mail.git"
+  },
+  "author": "Jaime González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaimeGo/express-mail/issues"
+  },
+  "homepage": "https://github.com/JaimeGo/express-mail#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "pug": "*",
+    "nodemailer": "*"
+  }
+}
