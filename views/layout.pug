@@ -2,7 +2,7 @@ head
     title Express mail
     // Bootstrap core CSS
     link(href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css' rel='stylesheet')
-nav.navbar.navbar-expand-md.navbar-dark.fixed-top.bg-dark
+nav.navbar.navbar-expand-md.navbar-light.fixed-top.bg-primary
     a.navbar-brand(href='/') XM
     button.navbar-toggler(type='button' data-toggle='collapse' data-target='#navbarsExampleDefault' aria-controls='navbarsExampleDefault' aria-expanded='false' aria-label='Toggle navigation')
         span.navbar-toggler-icon
@@ -17,7 +17,7 @@ nav.navbar.navbar-expand-md.navbar-dark.fixed-top.bg-dark
             li.nav-item
                 a.nav-link(href='/contact') Contact
 
-        form.form-inline.my-2.my-lg-0
+        form.form-inline.my-2.my-lg-0(style={color:'black'})
             input.form-control.mr-sm-2(type='text' placeholder='Search' aria-label='Search')
             button.btn.btn-outline-success.my-2.my-sm-0(type='submit') Search
 main(role='main')
@@ -28,30 +28,9 @@ main(role='main')
 
             block content
 
+    block columns
 
 
 
-    .container
-        // Example row of columns
-        .row
-            .col-md-4
-                h2 Heading
-                p
-                    | Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                p
-                    a.btn.btn-secondary(href='#' role='button') View details &raquo;
-            .col-md-4
-                h2 Heading
-                p
-                    | Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                p
-                    a.btn.btn-secondary(href='#' role='button') View details &raquo;
-            .col-md-4
-                h2 Heading
-                p
-                    | Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-                p
-                    a.btn.btn-secondary(href='#' role='button') View details &raquo;
-        hr
     // /container
 block footer
