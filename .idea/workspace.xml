@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39c70ce9-c2a2-4cf4-826c-ff7ac86cf999" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.pug" afterDir="false" />
-    </list>
+    <list default="true" id="39c70ce9-c2a2-4cf4-826c-ff7ac86cf999" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -39,7 +35,7 @@
       <file leaf-file-name="layout.pug" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/layout.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="207">
               <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
             </state>
           </provider>
@@ -203,16 +199,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525544967705</updated>
-      <workItem from="1525544968937" duration="10315000" />
+      <workItem from="1525544968937" duration="10560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10315000" />
+    <option name="totallyTimeSpent" value="10560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="640" y="23" width="640" height="728" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -294,7 +289,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
+        <state relative-caret-position="207">
           <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
         </state>
       </provider>
